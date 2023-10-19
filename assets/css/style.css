@@ -131,7 +131,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 60px;
 }
 
 /*--------------------------------------------------------------
@@ -1490,8 +1490,7 @@ section {
 
 /* logo size changed */
 .fotter-logo-size{
-  width: 110px;
-  height: 30px;
+  max-height: 50px;
 }
 
 #footer .footer-top {
